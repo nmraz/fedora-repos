@@ -1,0 +1,8 @@
+/free/fedora/releases/44/Everything/x86_64
+/free/fedora/releases/44/Everything/source
+/free/fedora/updates/44/x86_64
+/free/fedora/updates/44/SRPMS
+/nonfree/fedora/releases/44/Everything/x86_64
+/nonfree/fedora/releases/44/Everything/source
+/nonfree/fedora/updates/44/x86_64
+/nonfree/fedora/updates/44/SRPMS
