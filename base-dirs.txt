@@ -1,4 +1,4 @@
-/fedora/linux/releases/44/Everything/x86_64/
-/fedora/linux/releases/44/Everything/source/
-/fedora/linux/updates/44/Everything/x86_64/
-/fedora/linux/updates/44/Everything/source/
+/fedora/linux/releases/45/Everything/x86_64/
+/fedora/linux/releases/45/Everything/source/
+/fedora/linux/updates/45/Everything/x86_64/
+/fedora/linux/updates/45/Everything/source/
